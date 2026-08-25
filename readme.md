@@ -1,6 +1,6 @@
 readme.md
 
-# Hello from Github
+# Hello from computer!
 
 ## Subheading
 
